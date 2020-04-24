@@ -9,9 +9,11 @@ public class arraylist {
 	al.add("ravi");
 		al.add("satish");
 		al.add("rajesh");
-		
+		al.add("rajeshsss");
+		al.add("rajeshsss");
 		Iterator<String> itr = al.iterator();
 		//when ever we use this itertor
+		System.out.println(itr.next());
 		System.out.println(itr.next());
 		System.out.println(itr.next());
 		System.out.println(itr.next());//
