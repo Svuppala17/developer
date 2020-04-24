@@ -1,0 +1,18 @@
+import java.util.Map.Entry;
+import java.util.*;
+public class Mapinterface {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+HashMap<Integer,String> map= new HashMap<Integer,String>();
+map.put(1,"satish");
+map.put(2,"rajesh");
+map.put(3,"sunil");
+map.put(4,"nakul");
+//map.entry is used to set the values and keys //
+for(Map.Entry m:map.entrySet()) {
+	System.out.println(m.getKey()+" "+m.getValue());//key:number value:string//
+}
+	}
+
+}

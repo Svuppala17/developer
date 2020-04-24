@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package variables;
+
+/**
+ * @author satishvuppala
+ *
+ */
+public class characterclass {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+char uniChar='\u039A';
+char[] chararray= {'a','s','d'
+};
+
+
+	}
+
+}

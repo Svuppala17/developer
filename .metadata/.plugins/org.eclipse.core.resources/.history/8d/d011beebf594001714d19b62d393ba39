@@ -1,0 +1,12 @@
+package variables;
+
+public class wrapper {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ Integer x= 5;// wrapper class has charter class
+                //so here x is object//
+x =x+10;//
+System.out.println(x+"\'hello\'");
+	}
+}

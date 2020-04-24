@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package variables;
+
+/**
+ * @author satishvuppala
+ *
+ */
+public class characterclass {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("she said that \\ hello \\ to me.");
+
+// always this syntax has boolean function inbuilt"//
+// if the value or char is valid it says true if not it says  false//
+System.out.println(Character.isLetter('f'));
+System.out.println(Character.isLetter('5'));
+	}
+
+}

@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package variables;
+
+/**
+ * @author satishvuppala
+ *
+ */
+public class characterclass {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("she said that \"hello\" to me.");
+
+
+
+	}
+
+}

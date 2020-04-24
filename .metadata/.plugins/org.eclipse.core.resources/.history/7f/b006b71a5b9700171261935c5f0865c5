@@ -1,0 +1,14 @@
+package variables;
+
+public class addition {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int x ;
+int y ;
+
+
+System.out.println(enetr the value of x);
+	}
+
+}
