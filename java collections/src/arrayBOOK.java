@@ -27,11 +27,12 @@ BOOK b1= new BOOK(6,"satish","hik",9);
 BOOK b2= new BOOK(6,"datnnish","lik",99);
 BOOK b3= new BOOK(6,"satihhhhhsh","hllik",900);
 BOOK b4= new BOOK(6,"samjjtish","ouihik",79);
-
+BOOK b5= new BOOK(6,"rajesh","ouihik",89);
 list.add(b1);
 list.add(b2);
 list.add(b3);
 list.add(b4);
+list.add(b5);
 for(BOOK b:list) {
 System.out.println(b.author+" "+b.name+" "+b.id+" "+b.qunatity);
 	}
